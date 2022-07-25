@@ -6,9 +6,9 @@ Often users might have connection issues or the server response time might be in
 
 ## Features
 
-Delay can be specified
-Uses app theme's colors
-Any progress indicator can be used
+- Delay can be specified
+- Uses app theme's colors
+- Any progress indicator can be used
 
 ## Games available
 
