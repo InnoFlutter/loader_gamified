@@ -1,6 +1,6 @@
 name: loader_gamified
 description: Loader with a mini game inside it. Initially it will show a specified loader, but after some predefined period of time it will switch to the game.
-version: 0.0.1
+version: 0.0.1+1
 repository: https://github.com/InnoFlutter/loader_gamified
 
 environment:
