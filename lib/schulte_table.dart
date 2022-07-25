@@ -5,16 +5,16 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
-class ShulteTable extends StatefulWidget {
+class SchulteTable extends StatefulWidget {
 
-  const ShulteTable({Key? key}) : super(key: key);
+  const SchulteTable({Key? key}) : super(key: key);
 
   @override
-  State<ShulteTable> createState() => _ShulteTableState();
+  State<SchulteTable> createState() => _SchulteTableState();
 }
 
-class _ShulteTableState extends State<ShulteTable> {
-  // Shulte table parameters
+class _SchulteTableState extends State<SchulteTable> {
+  // Schulte table parameters
   int currentNumber = 1;
   List<int> numbers = new List<int>.generate(3 * 3, (i) => i + 1);
 

@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/widgets.dart';
-import 'package:loader_gamified/shulte_table.dart';
+import 'package:loader_gamified/schulte_table.dart';
 
 import 'loader_gamified_platform_interface.dart';
 
@@ -48,7 +48,7 @@ class _GamifiedLoaderState extends State<GamifiedLoader> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: isLoading ? widget.loader : const ShulteTable(),
+      child: isLoading ? widget.loader : const SchulteTable(),
     );
   }
 }
