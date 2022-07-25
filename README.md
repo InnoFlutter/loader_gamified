@@ -16,7 +16,7 @@ Currently, only Shulte table is available as a game.
 
 ## Demo
 
-![demo](img/demo.gif)
+![demo](https://raw.githubusercontent.com/InnoFlutter/loader_gamified/main/img/demo.gif)
 
 ## Usage
 
